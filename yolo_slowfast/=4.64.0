@@ -1,0 +1,2 @@
+Looking in indexes: http://repo.myhuaweicloud.com/repository/pypi/simple
+Requirement already satisfied: tqdm in /home/ma-user/anaconda3/envs/PyTorch-1.8/lib/python3.7/site-packages (4.63.1)
